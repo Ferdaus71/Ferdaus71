@@ -1,6 +1,7 @@
-<!-- Banner -->
+<img width="1584" height="396" alt="Blue and Green Simple Software Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/45158b27-40da-4d2f-bf6c-3ee9bd4128c9" /><!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/b50fd65b-5d7f-4f8d-bce7-dc8f7f2c4083.png" 
+  <img src="![Uploading Blue and Green Simple Software Engineer LinkedIn Banner.png…]()
+" 
        alt="Banner" width="100%"/>
 </p>
 
