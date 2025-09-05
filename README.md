@@ -1,7 +1,13 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Ferdaus Hossen</h1>
-<h3 align="center">🚀 AI Researcher | ML Engineer | Developer</h3>
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E6E6&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Ferdaus+Hossen;🚀+AI+Researcher;💡+Machine+Learning+Engineer;📊+Data+Science+Explorer;🌐+Full+Stack+Developer" alt="Typing SVG" />
+</p>
+
+---
+
+<h3 align="center">Welcome to my GitHub Profile</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,mysql,postgresql,html,css,js,react,tailwind,figma" />
@@ -20,12 +26,16 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
+
+---
+
+### 🔥 Streak Stats  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
