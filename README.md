@@ -1,22 +1,17 @@
-<!-- GitHub Profile README -->
-
-<!-- Typing SVG Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E6E6&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Ferdaus+Hossen;🚀+AI+Researcher;💡+Machine+Learning+Engineer;📊+Data+Science+Explorer;🌐+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/b50fd65b-5d7f-4f8d-bce7-dc8f7f2c4083.png" 
+       alt="Banner" width="100%"/>
 </p>
 
----
-
-<h3 align="center">Welcome to my GitHub Profile</h3>
+<!-- Pop-up Style Welcome -->
+<h2 align="center">🎉 Welcome to my GitHub Profile 🎉</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="[https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue](https://github.com/Ferdaus71)" alt="Profile Views"/>
+  <img src="[https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=githu](https://github.com/Ferdaus71)b" alt="Followers"/>
 </p>
 
----
 
 
 ## 🌐 Socials:
