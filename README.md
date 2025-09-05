@@ -3,16 +3,20 @@
   <img src="![Uploading Blue and Green Simple Software Engineer LinkedIn Banner.png…]()
 " 
        alt="" width="100%"/>
-</p>
+<!-- Fake Popup Style Box -->
+<div align="center">
 
-<!-- Pop-up Style Welcome -->
-<h2 align="center">🎉 Welcome to my GitHub Profile 🎉</h2>
+<div style="border: 2px solid #00FFDD; border-radius: 12px; padding: 15px; width: 70%; background-color: #0d1117; color: #ffffff;">
+  
+<h2>🎉 Welcome to my GitHub Profile 🎉</h2>
 
-<p align="center">
-  👋 Hi, this is <strong>Ferdaus Hossen</strong>.  
-  <br>
-  🙏 Thanks for visiting my profile!
-</p>
+👋 Hi, this is <strong>Ferdaus Hossen</strong>.  
+<br>
+🙏 Thanks for visiting my profile!
+
+</div>
+</div>
+
 
 <!-- Profile Stats -->
 <p align="center">
