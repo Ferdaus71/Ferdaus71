@@ -2,7 +2,7 @@
 <p align="center">
   <img src="![Uploading Blue and Green Simple Software Engineer LinkedIn Banner.png…]()
 " 
-       alt="Banner" width="100%"/>
+       alt="" width="100%"/>
 </p>
 
 <!-- Pop-up Style Welcome -->
