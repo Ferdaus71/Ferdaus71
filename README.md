@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack  
+[### 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,mysql,postgresql,html,css,js,react,tailwind,figma" />
@@ -58,5 +58,5 @@
 </p>
 
 ---
-
+](https://www.facebook.com/ferdaus.hassan.1184)
 ⭐ From [yourusername](https://github.com/yourusername)
