@@ -9,8 +9,15 @@
 <h2 align="center">🎉 Welcome to my GitHub Profile 🎉</h2>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue](https://github.com/Ferdaus71)" alt="Profile Views"/>
-  <img src="[https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=githu](https://github.com/Ferdaus71)b" alt="Followers"/>
+  👋 Hi, this is <strong>Ferdaus Hossen</strong>.  
+  <br>
+  🙏 Thanks for visiting my profile!
+</p>
+
+<!-- Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ferdaus71&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Ferdaus71?style=for-the-badge&logo=github" alt="Followers"/>
 </p>
 
 
